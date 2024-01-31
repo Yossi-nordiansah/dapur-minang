@@ -38,7 +38,7 @@ const Testimonial = () => {
   };
   return (
     <>
-      <div data-aos="zoom-out" data-aos-duration="300" data-aos-once="true" className="py-10">
+      <div data-aos="" data-aos-duration="300" data-aos-once="true" className="py-10">
         <div className="container">
           <div className="text-center mb-20 max-w-[400px] mx-auto">
             <h1 className="text-3xl font-bold">Testimoni Customer kita</h1>
